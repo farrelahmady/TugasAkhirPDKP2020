@@ -1,0 +1,12 @@
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csprojAssemblyReference.cache
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Properties.Resources.resources
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csproj.GenerateResource.cache
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.csproj.CoreCompileInputs.cache
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.exe
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.pdb
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Home.resources
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Core.resources
+D:\DropBox\Dropbox\Pemrograman\C#\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Result.resources
